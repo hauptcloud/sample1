@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "HauptCloud - Hugo Hero Theme Sample Site"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
